@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+DK+Loopet:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Battambang:wght@100;300;400;700;900&family=Playwrite+DK+Loopet:wght@100..400&display=swap');
+p {
+    color: aqua;
+    font-size: 10px;
+     font-family: "Playwrite DK Loopet", cursive;
+}
+
+h1 {
+    color: blueviolet;
+    font-size: 20px;
+    font-family: "Playwrite DK Loopet", cursive;
+    margin-left: 500px;
+}
+div{
+    border: 2px solid red;
+    padding: 20px;
+    margin: 50px;
+}
+p{
+    background-color: aquamarine;
+}
