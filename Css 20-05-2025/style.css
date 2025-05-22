@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Battambang:wght@100;300;400;700;900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Playwrite+DK+Loopet:wght@100..400&display=swap');
+body{
+    font-family: "Playwrite DK Loopet", cursive;;
+}
+.avatar{
+    width: 280px;
+    border-radius: 140px;
+    border:8px solid black;
+}
+body{
+    background: #22C1C3;
+background: linear-gradient(0deg, rgba(34, 193, 195, 1) 0%, rgba(253, 187, 45, 1) 100%)no-repeat;
+
+}
